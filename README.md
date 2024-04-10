@@ -1,7 +1,9 @@
 Hi 👋 My name is Anidiction
 ===========================
 
-I'm currently a Computer Science student at KMITL### Skills 
+I'm currently a Computer Science student at KMITL
+
+### Skills 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
@@ -22,7 +24,8 @@ I'm currently a Computer Science student at KMITL### Skills
   </a>
 </p>
 
-### Badges<b>My GitHub Stats</b>
+### Badges
+<b>My GitHub Stats</b>
   <a href="http://www.github.com/anidiction"><img src="https://github-readme-stats.vercel.app/apiusername=anidiction&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="anidiction's GitHub stats" />
   </a>
   
