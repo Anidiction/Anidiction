@@ -29,10 +29,6 @@ I'm currently a Computer Science student at KMITL
   </a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/anidiction">
   <img src="https://github-readme-stats.vercel.app/api?username=anidiction&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="anidiction's GitHub stats" />
 </a>
