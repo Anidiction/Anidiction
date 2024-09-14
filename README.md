@@ -1,4 +1,4 @@
-Hi 👋 My name is Anidiction
+Hi 👋 I'm Aniki
 ===========================
 
 I'm currently a Computer Science student at KMITL
