@@ -1,4 +1,4 @@
-Hi 👋 I'm Aniki
+Hi 👋 I'm Anidiciton
 ===========================
 
 I'm currently a Computer Science student at KMITL
